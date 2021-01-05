@@ -12,7 +12,7 @@
   "author": "Pewww <jung22337@naver.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "jest": "^25.1.0",
     "typescript": "^3.8.3"
   },
